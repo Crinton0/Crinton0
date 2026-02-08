@@ -1,4 +1,10 @@
-## Work in progress
+## Projects Planned for 2027
+- [ ] Portfolio
+  Using Next.js and react. Probably hosted or Linode
+- [ ] My Operating System
+  For now, just the basics like the bootloader and basic interaction. I'll resume the project later.
+- [ ] Compiler of my Language
+  Using VM that executes bytecode
 
 <!--
 **Crinton0/Crinton0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
