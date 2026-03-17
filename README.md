@@ -1,8 +1,12 @@
 ## Projects Planned for 2026-2027
-- [ ] Audio/Video Summarization and Learning tool
+- [ ] Audio/Video Summarization and Learning tool.
+
     It will use Whisper and an LLM of your choice.
+    
     You bring your own key and provider.
+    
     Designed to be (more or less) self hostable.
+    
     You upload a file or add a youtube link, then the transcript (and possibly other relevant information? Metadata?) get pulled, fed into an LLM, and then you can ask questions, create flashcards or export transcript or your conversation with the LLM.
     
 - [ ] CrintyOS
