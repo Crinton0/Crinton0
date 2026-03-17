@@ -1,6 +1,7 @@
 ## Projects Planned for 2027
 - [x] Operating System
-
+>[!note]HI?
+> something
 
 
 
